@@ -11,4 +11,3 @@ data "aws_ami" "latest_amazon_linux" {
 
 
 
-git@github.com:amakauzuegbunam7-cloud/high_availability_with_terraform.git
