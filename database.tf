@@ -15,4 +15,3 @@ resource "aws_db_instance" "default" {
 }
 
 
-https://github.com/amakauzuegbunam7-cloud/high_availability_with_terraform.git
